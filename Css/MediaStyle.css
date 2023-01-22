@@ -1,0 +1,267 @@
+@media screen and (max-width:499px) {
+    .Menu-Right {
+        display: none;
+    }
+
+    .Header-content {
+        width: 100%;
+        margin: 220px auto;
+    }
+
+    .Header-content h1 {
+        font-size: 30px;
+    }
+
+    .Header-content h4 {
+        font-size: 10px;
+    }
+
+    .About-left {
+        width: 100%;
+        margin-bottom: 30px;
+        padding-right: 0px;
+    }
+
+    .About-Box {
+        width: 100%;
+    }
+
+    .About-Box-img {
+        transform: translateY(0px) translateX(0px);
+    }
+
+    .About-Box-img-Details-Icon {
+        left: 10%;
+    }
+
+    .About-Text {
+        width: 100%;
+    }
+
+    .About-Text ul {
+        padding-left: 0px;
+    }
+
+    .About-Text ul li {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .About-Text-bottom-a {
+        margin-left: 10px;
+        padding: 8px 14px;
+    }
+    .linOne {
+        width: 16%;
+    }
+    
+    .linTwo {
+        width: 32%;
+    }
+    .Our-Services-Bottom-Con {
+        width: 100%;
+    }
+    .Our-Portfolio-Con{
+        width: 100%;
+    }
+    .Conter-Con{
+        width: 100%;
+    }
+    .Our-Services-Bottom-Box{
+        width: 100%;
+        height: 400px;
+    }
+    .Our-Services-Bottom-Box-tr{
+        width: 80%;
+        height: 60%;
+        right: 100%;
+    }
+    .Our-Services-Bottom-Box-text {
+        width: 90%;
+        top: 200px;
+        left: 20;
+    }
+    .Blog-con{
+        width: 100%;
+    }
+    .Contact-Us-text{
+        width: 100%;
+        float: left;
+        margin: 0px 0px;
+    }
+    .Contact-Us-text-input{
+        width: 100%;
+        margin: 10px 0px;
+        padding: 10px;
+    }
+    .Contact-Us-text-Cen{
+        width: 100%;
+        margin: 10px 0px;
+    }
+}
+
+@media screen and (max-width:767px) and (min-width:500px) {
+    .Container {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    .Menu-Right-Ul-Li>a {
+        font-size: 5px;
+    }
+
+    .About-left {
+        width: 100%;
+        margin-bottom: 30px;
+        padding-right: 0px;
+    }
+
+    .About-Box {
+        width: 100%;
+    }
+
+    .About-Box-img {
+        transform: translateY(0px) translateX(0px);
+    }
+
+    .About-Box-img-Details-Icon {
+        left: 20%;
+    }
+
+    .About-Text {
+        width: 100%;
+    }
+
+    .About-Text ul {
+        padding-left: 0px;
+    }
+
+    .About-Text ul li {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .About-Text-bottom-a {
+        margin-left: 10px;
+        padding: 8px 14px;
+    }
+    .linOne {
+        width: 16%;
+    }
+    
+    .linTwo {
+        width: 32%;
+    }
+    .Our-Services-Bottom-Con {
+        width: 100%;
+    }
+    .Our-Portfolio-Con{
+        width: 100%;
+    }
+    .Conter-Con{
+        width: 100%;
+    }
+    .Our-Services-Bottom-Box{
+        width: 100%;
+        height: 400px;
+    }
+    .Our-Services-Bottom-Box-tr{
+        width: 80%;
+        height: 60%;
+        right: 100%;
+    }
+    .Our-Services-Bottom-Box-text {
+        width: 90%;
+        top: 200px;
+        left: 20;
+    }
+    .Blog-con{
+        width: 100%;
+    }
+    .Contact-Us-text{
+        width: 100%;
+        float: left;
+        margin: 0px 0px;
+    }
+    .Contact-Us-text-input{
+        width: 100%;
+        margin: 10px 0px;
+        padding: 10px;
+    }
+    .Contact-Us-text-Cen{
+        width: 100%;
+        margin: 10px 0px;
+    }
+}
+
+@media screen and (max-width:991px) and (min-width:768px) {
+    .Menu-Right-Ul-Li>a {
+        font-size: 13px;
+    }
+    .About-left {
+        width: 50%;
+        margin-bottom: 30px;
+        padding-right: 50px;
+    }
+
+    .About-Box {
+        width: 100%;
+    }
+
+    .About-Box-img {
+        transform: translateY(0px) translateX(0px);
+    }
+
+    .About-Box-img-Details-Icon {
+        left: 20%;
+    }
+
+    .About-Text {
+        width: 50%;
+    }
+
+    .About-Text ul {
+        padding-left: 0px;
+    }
+
+    .About-Text ul li {
+        font-weight: 200;
+        line-height: 0.5;
+        padding: 5px 0px;
+        font-size: 10px;
+    }
+    .About-Text-a {
+        font-size: 12px;
+    }
+    .About-Text-bottom-a {
+        margin-left: 10px;
+        padding: 8px 14px;
+    }
+    .linOne {
+        width: 16%;
+    }
+    
+    .linTwo {
+        width: 32%;
+    }
+    .Our-Services-Bottom-Con {
+        width: 50%;
+    }
+    .Our-Portfolio-Con{
+        width: 50%;
+    }
+    .Our-Services-Bottom-Box{
+        width: 100%;
+        height: 300px;
+    }
+    .Our-Services-Bottom-Box-tr{
+        width: 80%;
+        height: 60%;
+        right: 100%;
+    }
+    .Our-Services-Bottom-Box-text {
+        width: 70%;
+        top: 50px;
+        left: 25%;
+    }
+}
